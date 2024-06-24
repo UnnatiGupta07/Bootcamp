@@ -39,4 +39,3 @@ This repository contains a TensorFlow/Keras implementation for predicting age an
 
 - **Model File:** `AGE_Gender_10_epoc.h5` - Saved model file for deployment or further training.
 
-## Regards </br>Ayush kumar</br>Data scientist
